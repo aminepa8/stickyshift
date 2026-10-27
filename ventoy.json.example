@@ -1,0 +1,8 @@
+{
+  "persistence": [
+    {
+      "image": "/ISO/linuxmint-22-cinnamon-64bit.iso",
+      "backend": "/persistence/mint.dat"
+    }
+  ]
+}

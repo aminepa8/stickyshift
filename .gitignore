@@ -1,0 +1,10 @@
+# your ISOs are big and not yours to redistribute
+isos/*
+!isos/.gitkeep
+!isos/README.md
+
+# tool output
+logs/
+.cache/
+ventoy-*/
+*.log
